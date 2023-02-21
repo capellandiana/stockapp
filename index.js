@@ -1,3 +1,5 @@
+//Disclaimer: this app will be continuously updated as i go through my learning of webdevelopment and design.
+
 const express = require("express");
 const path = require('path');
 // //path returns the path app.use it is looking for the public folder
